@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1581831280 source:c:\users\nirvana\documents\programas\seriet\main.cpp
+	<iostream>
+	"Taylor.h"
+
+1581819834 c:\users\nirvana\documents\programas\seriet\include\polinomio.h
+	<iostream>
+
+1581835454 source:c:\users\nirvana\documents\programas\seriet\src\taylor.cpp
+	"Taylor.h"
+
+1581835418 c:\users\nirvana\documents\programas\seriet\include\taylor.h
+	<iostream>
+	<math.h>
+	"Polinomio.h"
+
+1581819873 source:c:\users\nirvana\documents\programas\seriet\src\polinomio.cpp
+	"Polinomio.h"
+
+1581835478 source:f:\analisis numerico\seriet\main.cpp
+	<iostream>
+	"Taylor.h"
+
+1582317112 f:\analisis numerico\seriet\include\taylor.h
+	<iostream>
+	<math.h>
+	"Polinomio.h"
+
+1581819836 f:\analisis numerico\seriet\include\polinomio.h
+	<iostream>
+
+1582317112 source:f:\analisis numerico\seriet\src\taylor.cpp
+	"Taylor.h"
+
+1582317334 source:c:\users\nirvana\documents\programas\nirvana_torres_p1\main.cpp
+	<iostream>
+	"Taylor.h"
+
+1582317733 c:\users\nirvana\documents\programas\nirvana_torres_p1\include\taylor.h
+	<iostream>
+	<math.h>
+
+1581819836 c:\users\nirvana\documents\programas\nirvana_torres_p1\include\polinomio.h
+	<iostream>
+
+1582317536 source:c:\users\nirvana\documents\programas\nirvana_torres_p1\src\taylor.cpp
+	"Taylor.h"
+
